@@ -1,0 +1,11 @@
+{
+  "name": "tzachiserver",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build, Dance!\""
+  },
+  "author": "",
+  "license": "ISC"
+}
